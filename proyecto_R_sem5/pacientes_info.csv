@@ -1,0 +1,41 @@
+id_paciente,genero,ciudad,grupo_riesgo
+101,Femenino,Antofagasta,Alto
+102,Femenino,Concepción,Alto
+103,Femenino,Concepción,Medio
+104,Masculino,Concepción,Medio
+105,Masculino,Valparaíso,Bajo
+106,Femenino,Valparaíso,Bajo
+107,Femenino,Antofagasta,Alto
+108,Femenino,Concepción,Medio
+109,Femenino,Concepción,Medio
+110,Femenino,La Serena,Alto
+111,Femenino,La Serena,Bajo
+112,Masculino,La Serena,Alto
+113,Masculino,La Serena,Medio
+114,Femenino,Antofagasta,Alto
+115,Masculino,La Serena,Alto
+116,Masculino,Santiago,Bajo
+117,Masculino,Antofagasta,Alto
+118,Femenino,La Serena,Alto
+119,Femenino,Concepción,Bajo
+120,Femenino,Concepción,Alto
+121,Femenino,Valparaíso,Alto
+122,Femenino,Santiago,Medio
+123,Masculino,Valparaíso,Medio
+124,Masculino,Antofagasta,Bajo
+125,Femenino,Santiago,Bajo
+126,Masculino,Valparaíso,Bajo
+127,Femenino,La Serena,Alto
+128,Masculino,Valparaíso,Alto
+129,Femenino,La Serena,Alto
+130,Masculino,Antofagasta,Bajo
+131,Femenino,Antofagasta,Medio
+132,Masculino,Valparaíso,Alto
+133,Masculino,Concepción,Alto
+134,Femenino,Valparaíso,Medio
+135,Femenino,Santiago,Alto
+136,Masculino,Concepción,Medio
+137,Masculino,Valparaíso,Bajo
+138,Masculino,La Serena,Medio
+139,Femenino,Valparaíso,Alto
+140,Masculino,Santiago,Bajo
